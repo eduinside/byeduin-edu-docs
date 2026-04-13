@@ -35,4 +35,4 @@ git add . && git commit -m "docs: 문서 추가" && git push
 
 ---
 
-**관리자**: eduinside | **연동 앱**: https://byeduin.app/edu-search/
+**관리자**: eduinside | **연동 앱**: https://by.eduin.info/search/
